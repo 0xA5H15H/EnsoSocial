@@ -8,7 +8,9 @@
       "Bash(git commit -m \"Simplify page title to just ''Echoes''\")",
       "Bash(python:*)",
       "Bash(git add:*)",
-      "Bash(git commit:*)"
+      "Bash(git commit:*)",
+      "Bash(git pull:*)",
+      "Bash(git ls-tree:*)"
     ],
     "deny": [],
     "ask": []
