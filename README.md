@@ -267,4 +267,4 @@ Private project - All rights reserved
 
 ## Support
 
-For issues or questions, contact the development team.
+For issues or questions, contact the development team. #
